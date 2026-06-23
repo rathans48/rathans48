@@ -9,7 +9,7 @@ From building security-focused network hardware to developing data-dense full-st
 ### 🚀 What I'm Currently Up To
 - 🛡️ **Capstone Project:** Core developer engineering an **AI-Powered Edge Guard**—a physical IoT network security filter built on a Raspberry Pi 5 to intercept and mitigate zero-day network threats in real-time.
 - 🧠 **AI/ML & NLP:** Designing Human-in-the-Loop moderation systems, fine-tuning pre-trained transformer models, and aggregating real-time social data pipelines.
-- 🔧 **System Modding & Reverse Engineering:** Passionate about diving deep into systems—debugging Smali bytecode, native libraries, and system storage abstractions to modify and optimize custom framework executions.
+- 🔧 **System Modding & Reverse Engineering:** Passionate about diving deep into systems—debugging code, native libraries, and system storage abstractions to modify and optimize custom framework executions.
 
 ---
 
