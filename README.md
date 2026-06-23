@@ -1,4 +1,4 @@
-# Hi there, I'm [Rathan S]! 👋
+# Hi there, I'm Rathan S! 👋
 
 I am a final-year **Computer Science Engineering** undergraduate with a strong academic foundation (CGPA: 9.67/10). I specialize in bridging the gap between high-performance software engineering, AI/ML pipelines, and hardware/IoT ecosystems. 
 
