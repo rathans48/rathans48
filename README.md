@@ -48,7 +48,6 @@ From building security-focused network hardware to developing data-dense full-st
 ---
 
 ### 📈 GitHub Stats & Contributions
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathans48&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathans48&layout=compact&theme=dark)
 
 ---
