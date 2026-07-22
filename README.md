@@ -1,6 +1,6 @@
 # Hi there, I'm Rathan S! 👋
 
-I am a final-year **Computer Science Engineering** undergraduate with a strong academic foundation (CGPA: 9.67/10). I specialize in bridging the gap between high-performance software engineering, AI/ML pipelines, and hardware/IoT ecosystems. 
+I am a final-year **Computer Science Engineering** undergraduate with a strong academic foundation. I specialize in bridging the gap between high-performance software engineering, AI/ML pipelines, and hardware/IoT ecosystems. 
 
 From building security-focused network hardware to developing data-dense full-stack applications and NLP content moderation systems, I love engineering robust solutions to complex technical challenges.
 
@@ -9,7 +9,6 @@ From building security-focused network hardware to developing data-dense full-st
 ### 🚀 What I'm Currently Up To
 - 🛡️ **Capstone Project:** Core developer engineering an **AI-Powered Edge Guard**—a physical IoT network security filter built on a Raspberry Pi 5 to intercept and mitigate zero-day network threats in real-time.
 - 🧠 **AI/ML & NLP:** Designing Human-in-the-Loop moderation systems, fine-tuning pre-trained transformer models, and aggregating real-time social data pipelines.
-- 🔧 **System Modding & Reverse Engineering:** Passionate about diving deep into systems—debugging code, native libraries, and system storage abstractions to modify and optimize custom framework executions.
 
 ---
 
