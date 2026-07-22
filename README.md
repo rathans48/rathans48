@@ -52,7 +52,7 @@ From building security-focused network hardware to developing data-dense full-st
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/Rathan-S](www.linkedin.com/in/rathan--s)
+- 💼 **LinkedIn:** [linkedin.com/in/rathan--s](www.linkedin.com/in/rathan--s)
 - 📧 **Email:** [rathansuresh.01@gmail.com](mailto:rathansuresh.01@gmail.com)
 
 ---
