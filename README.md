@@ -54,42 +54,23 @@ I specialize in bridging high-performance software engineering, AI/ML pipelines,
 
 ---
 
+
 ### 📂 Key Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+ 
+- **🛡️ AI-Powered Edge Guard** *Jan 2026 – Present (Architecture Phase — repo coming soon)*
+  Physical IoT gateway securing local networks against zero-day and polymorphic threats using Autoencoder, TCN, and Adaptive Token Bucket models on the edge.
+  `Python` `Raspberry Pi 5` `Networking`
+- **🧠 [Early Warning System for Hate Speech](https://github.com/rathans48/AIML-Project)** *Mar 2026*
+  Human-in-the-Loop content moderation app using BART zero-shot and multi-label toxicity models, aggregating live data via YouTube, Reddit, and NewsAPI.
+  `Python` `PyTorch` `Streamlit`
+- **💸 [SMB Pulse](https://github.com/rathans48/innovahack-project)** *July 2026*
+  Deployed AI-powered cashflow auditor/advisor for SMBs — CSV upload to burn rate, runway, and AI-generated financial advisory. Built for InnovaHack Chapter 1.
+  `Next.js` `FastAPI` `Gemini API`
+- **🚂 [TrainTicketReservationSystem](https://github.com/rathans48/TrainTicketReservationSystem)** *Nov 2025*
+  End-to-end relational database desktop app for train scheduling with a Swing GUI and JDBC-backed multi-table SQL joins.
+  `Java` `MySQL` `JDBC`
 
-**🛡️ [AI-Powered Edge Guard](https://github.com/rathans48)**
-*Jan 2026 – Present*
-
-Physical IoT gateway securing local networks against zero-day and polymorphic threats using Autoencoder, TCN, and Adaptive Token Bucket models on the edge.
-
-`Python` `Raspberry Pi 5` `Networking`
-
-</td>
-<td width="33%" valign="top">
-
-**🧠 [Early Warning System for Hate Speech](https://github.com/rathans48)**
-*Mar 2026*
-
-Human-in-the-Loop content moderation app using BART zero-shot and multi-label toxicity models, aggregating live data via YouTube, Reddit, and NewsAPI.
-
-`Python` `PyTorch` `Streamlit`
-
-</td>
-<td width="33%" valign="top">
-
-**🚂 [TrainTicketReservationSystem](https://github.com/rathans48)**
-*Nov 2025*
-
-End-to-end relational database desktop app for train scheduling with a Swing GUI and JDBC-backed multi-table SQL joins.
-
-`Java` `MySQL` `JDBC`
-
-</td>
-</tr>
-</table>
 
 ---
 
